@@ -1,4 +1,4 @@
-#Travel-Blog
+# Travel-Blog
 
 This is the first project of Udacity intro to programing nano degree - make a stylish website
 
